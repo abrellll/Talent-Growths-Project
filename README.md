@@ -6,4 +6,7 @@ A key aspect of the project involves assessing the performance of the primary pe
 
 This project provides a robust framework for understanding the company’s financial landscape and assists in guiding strategic growth initiatives.
 
+![image](https://github.com/user-attachments/assets/696218da-18e7-4ebf-9aaf-0767ebd174f3)
+
+
 More Details? [Please Click Here](https://docs.google.com/spreadsheets/d/1ovckUI2w4Fv6bstaXFAQrWv2ZdqL7muK/edit?usp=sharing&ouid=101876597748059596946&rtpof=true&sd=true)
